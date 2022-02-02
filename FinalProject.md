@@ -63,6 +63,115 @@ php tasks
 
 ![php 2](https://user-images.githubusercontent.com/80197844/152254273-133ce0a7-de00-407d-b2ba-9a276c16ba71.PNG)
 
+laravel handlers
+
+![lv 1](https://user-images.githubusercontent.com/80197844/152255088-0f9c5dce-341e-438b-8980-c03cebcdd4d2.PNG)
+
+laravel tasks
+
+![lv 2](https://user-images.githubusercontent.com/80197844/152255131-a35f67ee-8cb5-4ed5-9fbc-babc9b0d4a83.PNG)
+
+laravel env.templates
+
+![lv 3 env templates](https://user-images.githubusercontent.com/80197844/152255217-ad83114c-60ba-4851-8591-2effc58db45a.PNG)
+
+laravel .conf
+
+![lv 4 lv conf](https://user-images.githubusercontent.com/80197844/152255469-ea917962-87e2-40c7-a241-4b3bca9e47ce.PNG)
+
+laravel www.conf
+
+![lv 5 www conf](https://user-images.githubusercontent.com/80197844/152255484-7ba53e39-4d40-4a73-8834-d05c032e6c47.PNG)
+
+ansible laravel
+
+![ansible laravel 1](https://user-images.githubusercontent.com/80197844/152255568-69ec9d5e-b4c3-401c-adad-ad93da8ed54e.PNG)
+![ansible laravel 2 ](https://user-images.githubusercontent.com/80197844/152255583-d6a24000-465c-45a4-9add-22555b3e87df.PNG)
+
+lalu kita akses laravel nya http://kelompok09.fpas/ 
+
+![laravel website](https://user-images.githubusercontent.com/80197844/152255618-36ea71f0-6c44-4e6c-b17a-316996dee744.PNG)
+
+```
+Yii
+```
+install-yi.yml
+
+![install yii yaml](https://user-images.githubusercontent.com/80197844/152255856-d157d5dc-a2d9-4957-93e9-e68ba5688d14.PNG)
+
+yii handlers
+
+![yii 1](https://user-images.githubusercontent.com/80197844/152255916-3c9da8fd-5a7e-4748-8f29-4dd59d8527a6.PNG)
+
+yii tasks
+
+![yii 2](https://user-images.githubusercontent.com/80197844/152255941-f5fc4d68-a14c-4382-a40f-701d78a01f5c.PNG)
+
+yii. conf
+
+![yii 3](https://user-images.githubusercontent.com/80197844/152256100-0f00c3a3-cb9f-4e9c-8226-04db85817f54.PNG)
+
+Hasil Ansible yii
+
+![ansible yii](https://user-images.githubusercontent.com/80197844/152256129-58479f08-b8c4-4433-a3ed-9a382b58eeb4.PNG)
+![ansible yii 2 ](https://user-images.githubusercontent.com/80197844/152256141-eb6b8f6a-cea4-40f1-96e4-3ea5becfc882.PNG)
+
+lalu kita jalankan yii http://kelompok09.fpas/product
+
+![yii website](https://user-images.githubusercontent.com/80197844/152256320-13157e4d-33bb-409c-b671-69c41899ba08.PNG)
+
+```
+lxc database
+```
+insttal-mariadb.yml
+
+![install mariadb yaml](https://user-images.githubusercontent.com/80197844/152256509-4384e6f0-8dea-4ec6-bc30-3f077ad38208.PNG)
+
+
+db handlers
+
+![db 1](https://user-images.githubusercontent.com/80197844/152256560-f8716fc3-11b9-4b5e-b445-de0076259fa1.PNG)
+
+db tasks
+
+![db 2](https://user-images.githubusercontent.com/80197844/152256578-f24faec9-de09-438d-9d41-7877e6b734f1.PNG)
+
+db templates my.cnf
+
+![db 3](https://user-images.githubusercontent.com/80197844/152256691-4189fa35-d970-482f-9124-25005355ee09.PNG)
+
+lalu kita jalankan DB dan database dapat dijalankan dan tersambung dengan YII
+
+![php mya admin 1](https://user-images.githubusercontent.com/80197844/152257024-b02e8a18-622d-48b6-b06a-ccd7208bb284.PNG)
+
+![php mya admin 2](https://user-images.githubusercontent.com/80197844/152257053-0535d238-0fcf-4ae7-a43c-7f24b11c7d9f.PNG)
+
+
+```
+set host utama
+```
+nano /etc/hosts
+![2](https://user-images.githubusercontent.com/80197844/152257263-7ae134e0-de0a-456e-b11a-ff8a78793568.PNG)
+
+```
+Host Grouping
+```
+lakukan grouping pada host untuk memfokuskan lxc sesuai yang diperlukan
+
+![3](https://user-images.githubusercontent.com/80197844/152257443-88304b3c-1315-40c8-9674-7f17e02a7d64.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

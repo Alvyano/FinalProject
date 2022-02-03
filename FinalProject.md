@@ -174,7 +174,7 @@ wp templates wp.local
 
 Hasil Ansible wp
 
-![Uploading ansible wp.PNG…]()
+![ansible wp](https://user-images.githubusercontent.com/80197844/152298291-e9115d40-5dcb-4c2d-9c88-565068909930.PNG)
 
 lalu kita jalankan wp
 

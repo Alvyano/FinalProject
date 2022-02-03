@@ -163,9 +163,17 @@ wp tasks
 
 ![wp 2](https://user-images.githubusercontent.com/80197844/152295976-2b9f484d-267e-4806-98b5-402d1b7a4bad.PNG)
 
-wp templates
+wp templates wp.conf
 
 ![wp 3](https://user-images.githubusercontent.com/80197844/152295995-3f441f02-db92-4856-b8f8-270e5e3cb2da.PNG)
+
+wp templates wp.local
+
+
+Hasil Ansible wp
+
+
+lalu kita jalankan wp
 
 
 ```

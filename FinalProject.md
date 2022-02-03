@@ -176,6 +176,9 @@ Hasil Ansible wp
 
 ![ansible wp](https://user-images.githubusercontent.com/80197844/152298291-e9115d40-5dcb-4c2d-9c88-565068909930.PNG)
 
+![ansible wp 2 ](https://user-images.githubusercontent.com/80197844/152304458-5ae2d3e7-0189-4c8b-8405-d284d9a79385.PNG)
+
+
 lalu kita jalankan wp
 
 ![wp website](https://user-images.githubusercontent.com/80197844/152298092-f15d40bd-f912-4616-8489-d00910fdf61f.PNG)

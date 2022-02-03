@@ -170,12 +170,15 @@ wp templates wp.conf
 
 wp templates wp.local
 
+![wp 4](https://user-images.githubusercontent.com/80197844/152298050-6191187f-11de-40a3-b6a5-e8d3ef1128e6.PNG)
 
 Hasil Ansible wp
 
+![Uploading ansible wp.PNG…]()
 
 lalu kita jalankan wp
 
+![wp website](https://user-images.githubusercontent.com/80197844/152298092-f15d40bd-f912-4616-8489-d00910fdf61f.PNG)
 
 ```
 set host utama

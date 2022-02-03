@@ -157,14 +157,15 @@ install wp.yml
 ```
 wp handlers
 
-![wp 1](https://user-images.githubusercontent.com/80197844/152292965-4b392f22-00be-46cd-83bc-6333af577b29.PNG)
+![wp 1](https://user-images.githubusercontent.com/80197844/152295956-643904d3-9f48-4890-937a-74f37d24b965.PNG)
 
 wp tasks
 
-![wp 2](https://user-images.githubusercontent.com/80197844/152294538-5e98b5df-a5f3-4da6-b556-780c1dbaa757.PNG)
+![wp 2](https://user-images.githubusercontent.com/80197844/152295976-2b9f484d-267e-4806-98b5-402d1b7a4bad.PNG)
 
 wp templates
 
+![wp 3](https://user-images.githubusercontent.com/80197844/152295995-3f441f02-db92-4856-b8f8-270e5e3cb2da.PNG)
 
 
 ```

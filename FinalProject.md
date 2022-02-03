@@ -156,6 +156,7 @@ install wp.yml
 
 ```
 wp handlers
+```
 
 ![wp 1](https://user-images.githubusercontent.com/80197844/152295956-643904d3-9f48-4890-937a-74f37d24b965.PNG)
 

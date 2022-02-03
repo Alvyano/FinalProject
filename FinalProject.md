@@ -146,6 +146,26 @@ lalu kita jalankan DB dan database dapat dijalankan dan tersambung dengan YII
 
 ![php mya admin 2](https://user-images.githubusercontent.com/80197844/152257053-0535d238-0fcf-4ae7-a43c-7f24b11c7d9f.PNG)
 
+```
+wp
+```
+install wp.yml
+
+
+![install wp yml](https://user-images.githubusercontent.com/80197844/152294147-a20ba45a-bfee-466b-8507-9afcdb57ad6b.PNG)
+
+```
+wp handlers
+
+![wp 1](https://user-images.githubusercontent.com/80197844/152292965-4b392f22-00be-46cd-83bc-6333af577b29.PNG)
+
+wp tasks
+
+![wp 2](https://user-images.githubusercontent.com/80197844/152294538-5e98b5df-a5f3-4da6-b556-780c1dbaa757.PNG)
+
+wp templates
+
+
 
 ```
 set host utama
